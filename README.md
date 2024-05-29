@@ -2,7 +2,7 @@
 
 `git clone`
 
-`cd Web_Services`
+`cd Internet_Store`
 
 `docker-compose up`
 
